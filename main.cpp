@@ -13,10 +13,20 @@ int main()
          << "A / B = " << a / b << '\n'
          if(a>b)
     {
+<<<<<<< HEAD
         cout<<b;
     }
     else
     {
         cout<<a;
+=======
+
+
+        cout<<a;
+    }
+    else
+    {
+        cout<<b;
+>>>>>>> 2ad13d18c533489b230710cbe7aae58c2d04177b
     }
 }
